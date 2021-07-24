@@ -1,0 +1,26 @@
+.head-content{
+    margin: 0px 0px 0px 0px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.pre{
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    display: inline;
+}
+.comments{
+    color: #0000ff;
+    display: inline;
+}
+.tab-space{
+    margin-left: 40px;
+}
+.pre-dark{
+    color: black;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    display: inline;
+    font-weight: bold;
+}
